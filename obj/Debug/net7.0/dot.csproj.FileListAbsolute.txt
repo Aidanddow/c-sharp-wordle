@@ -1,0 +1,15 @@
+/Users/aidan/Workspace/dot/obj/Debug/net7.0/dot.csproj.AssemblyReference.cache
+/Users/aidan/Workspace/dot/obj/Debug/net7.0/dot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidan/Workspace/dot/obj/Debug/net7.0/dot.AssemblyInfoInputs.cache
+/Users/aidan/Workspace/dot/obj/Debug/net7.0/dot.AssemblyInfo.cs
+/Users/aidan/Workspace/dot/obj/Debug/net7.0/dot.csproj.CoreCompileInputs.cache
+/Users/aidan/Workspace/dot/bin/Debug/net7.0/dot
+/Users/aidan/Workspace/dot/bin/Debug/net7.0/dot.deps.json
+/Users/aidan/Workspace/dot/bin/Debug/net7.0/dot.runtimeconfig.json
+/Users/aidan/Workspace/dot/bin/Debug/net7.0/dot.dll
+/Users/aidan/Workspace/dot/bin/Debug/net7.0/dot.pdb
+/Users/aidan/Workspace/dot/obj/Debug/net7.0/dot.dll
+/Users/aidan/Workspace/dot/obj/Debug/net7.0/refint/dot.dll
+/Users/aidan/Workspace/dot/obj/Debug/net7.0/dot.pdb
+/Users/aidan/Workspace/dot/obj/Debug/net7.0/dot.genruntimeconfig.cache
+/Users/aidan/Workspace/dot/obj/Debug/net7.0/ref/dot.dll
